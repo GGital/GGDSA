@@ -19,7 +19,12 @@ This repository, GGDSA , is my curated collection of implementations for various
 ---
 
 **Update Plan :**
-3 January 2025 : Queue
+
+3 January 2025 : Queue 
+
 4 January 2025 : Stack
+
 7 January 2025 : Tree
+
 8 January 2025 : Heap
+
